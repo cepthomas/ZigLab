@@ -1,6 +1,4 @@
-
-# top
-
+# Top
 
 
 # ST integration
@@ -27,11 +25,10 @@ sublime-zig-language-master.zip (39k) -- main
 sublime-zig-language-PR-vscode-port.zip (56k) -- ??
 sublime-zig-unofficial-master.zip (26k) -- supposedly more up-to-date
 
-
-** I'm using:
+***** I'm using:
 zig-x86_64-windows-0.16.0.zip (92m)
 zls-x86_64-windows-0.16.0.zip (4m)
-Zig Language New Branch -- manual install
+Zig Language New Branch -- manual install -> rename to Zig Language!
 
 
 ----- diffs  <=> https://packagecontrol.io/packages/ZigUnofficial
@@ -45,7 +42,7 @@ README.md       Text files are different
 Zig.py      Text files are different
 
 
-Commands        Folders are different
+Commands        
 Build.tmCommand         Left only: C:\Dev\zig-stuff\sublime-zig-language\Commands
 Build.YAML-tmCommand            Left only: C:\Dev\zig-stuff\sublime-zig-language\Commands
 Fmt.tmCommand           Left only: C:\Dev\zig-stuff\sublime-zig-language\Commands
@@ -55,23 +52,23 @@ Run.YAML-tmCommand          Left only: C:\Dev\zig-stuff\sublime-zig-language\Com
 Test.tmCommand          Left only: C:\Dev\zig-stuff\sublime-zig-language\Commands
 Test.YAML-tmCommand         Left only: C:\Dev\zig-stuff\sublime-zig-language\Commands
 
-Menus       Folders are different
+Menus       
 Main.sublime-menu     Text files are different
 
-Preferences     Folders are different
+Preferences     
 Comments.tmPreferences  Text files are different
 
-Settings        Folders are different
+Settings        
 Zig.sublime-settings       Text files are different
 
-Snippets        Folders are different
+Snippets        
 fn.sublime-snippet   Right only: C:\Dev\zig-stuff\sublime-zig-unofficial-master\Snippets
 
-Support     Folders are different
+Support     
 Comments.tmPreferences  Left only: C:\Dev\zig-stuff\sublime-zig-language\Support
 Comments.YAML-tmPreferences  Left only: C:\Dev\zig-stuff\sublime-zig-language\Support
 
-Syntaxes        Folders are different
+Syntaxes        
 syntax_test.zig        Text files are different
 Zig.sublime-syntax         Text files are different
 Zig.tmLanguage         Left only: C:\Dev\zig-stuff\sublime-zig-language\Syntaxes
@@ -90,7 +87,7 @@ dependencies.json       Left only: C:\Dev\zig-stuff\sublime-zig-language-PR-vsco
 build.md               Right only: C:\Dev\zig-stuff\sublime-zig-unofficial-master      
 .python-version      Left only: C:\Dev\zig-stuff\sublime-zig-language-PR-vscode-port 
 
-Syntaxes        Folders are different   
+Syntaxes           
 Zon.sublime-syntax          Right only: C:\Dev\zig-stuff\sublime-zig-unofficial-master\Syntaxes     
 Zig.YAML-tmLanguage         Left only: C:\Dev\zig-stuff\sublime-zig-language-PR-vscode-port\Syntaxes    YAML-tmLanguage
 Zig.tmLanguage.json         Left only: C:\Dev\zig-stuff\sublime-zig-language-PR-vscode-port\Syntaxes    
@@ -100,27 +97,27 @@ syntax_test_zig.zig         Left only: C:\Dev\zig-stuff\sublime-zig-language-PR-
 syntax_test.zig         Right only: C:\Dev\zig-stuff\sublime-zig-unofficial-master\Syntaxes     
 samples.zig         Text files are different    
 
-Support     Folders are different   
+Support        
 Comments.YAML-tmPreferences  Left only: C:\Dev\zig-stuff\sublime-zig-language-PR-vscode-port\Support YAML-tmPreferences
 Comments.tmPreferences       Left only: C:\Dev\zig-stuff\sublime-zig-language-PR-vscode-port\Support 
 
-Snippets        Folders are different   
+Snippets           
 fn.sublime-snippet      Right only: C:\Dev\zig-stuff\sublime-zig-unofficial-master\Snippets     
 
-Settings        Folders are different   
+Settings           
 Zig.sublime-settings        Text files are different    
 
 Preferences                Right only: C:\Dev\zig-stuff\sublime-zig-unofficial-master      
 Comments.tmPreferences  Preferences Right only: C:\Dev\zig-stuff\sublime-zig-unofficial-master\Preferences      tmPreferences
 
-Menus       Folders are different   
+Menus          
 Main.sublime-menu      Text files are different  
 
 Images      Left only: C:\Dev\zig-stuff\sublime-zig-language-PR-vscode-port 
 
-Commands        Folders are different   
+Commands           
 Zig.sublime-commands       Left only: C:\Dev\zig-stuff\sublime-zig-language-PR-vscode-port\Commands    sublime-commands
 
-Build Systems       Folders are different   
+Build Systems          
 Zig.sublime-build    Text files are different    
 
